@@ -107,7 +107,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: blue;
+  color: white;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -140,7 +140,6 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
-
 }
 
 .heading h2 {
@@ -149,8 +148,7 @@ header {
 
 .lesson {
   float: left;
-  width: 20%;
-  text-align: center;
+  width: 25%;
 }
 
 .lesson-icon {
@@ -208,4 +206,3 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
-
